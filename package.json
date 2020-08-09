@@ -1,0 +1,27 @@
+{
+  "name": "NLW2_PROFFY",
+  "version": "1.0.0",
+  "description": "NLW2 - Proffy",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon src/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wardedcoffee/NLW2_PROFFY.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wardedcoffee/NLW2_PROFFY/issues"
+  },
+  "homepage": "https://github.com/wardedcoffee/NLW2_PROFFY#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nunjucks": "^3.2.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
