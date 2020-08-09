@@ -89,7 +89,7 @@
 }
 
 /* Controla a mudança do tamanho da fonte da página, quando o tamnanho da tela atinge um número determinado */
-@media (max-width: 699px) {
+@media (max-width: 1100px) {
     :root {
         font-size: 40%; /* modificar as medidas rem */
     }
