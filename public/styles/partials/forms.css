@@ -48,3 +48,9 @@ a posição relativa desse elemento, faz a linha aparecer. */
     right: 1.6rem;
     bottom: 0px;
 }
+
+label small {
+    font-size: 1.2rem;
+    padding-left: 1.2rem;
+    color: var(--color-small-info);
+}
