@@ -1,5 +1,5 @@
 {
-  "name": "NLW2_PROFFY",
+  "name": "nlw2_proffy",
   "version": "1.0.0",
   "description": "NLW2 - Proffy",
   "main": "index.js",
@@ -19,10 +19,11 @@
   "homepage": "https://github.com/wardedcoffee/NLW2_PROFFY#readme",
   "dependencies": {
     "express": "^4.17.1",
-    "nunjucks": "^3.2.2",
-    "sqlite-async": "^1.1.0"
+    "nunjucks": "^3.2.3",
+    "sqlite-async": "^1.1.1",
+    "sqlite3": "^4.2.0"
   },
   "devDependencies": {
-    "nodemon": "^2.0.4"
+    "nodemon": "^2.0.7"
   }
 }
